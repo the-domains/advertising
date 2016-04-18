@@ -1,0 +1,28 @@
+name: advertising
+favicon: null
+layout_spectrum: 0.7380644062068313
+typography_spectrum: 0.2445537312887609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4866564953699708
+  lightness: 0.3408187839668244
+  saturation: 0.8490137115586549
+  rhythmicContrast: 0.5461562066338956
+purpose: []
